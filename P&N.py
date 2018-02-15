@@ -1,8 +1,8 @@
-num=float(input("enter the number:"))
-if (num>0):
+s=float(input("enter any  number:"))
+if (s>0):
  
  print("The number is positive")
-elif (num==0):
+elif (s==0):
    
  print("The number is zero")
 else:
