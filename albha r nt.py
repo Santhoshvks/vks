@@ -1,6 +1,6 @@
 while True:
 	print("Enter '0' for exit.")
-	ch = input("Enter any character: ")
+	ch = input("Type any character: ")
 	if ch == '0':
 		break
 	else:
