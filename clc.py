@@ -1,10 +1,10 @@
-num = input('Enter any number : ')
+s= input('Enter the  number : ')
 
 try:
   
-  val = int(num)
+  val = int(s)
     
-if num == str(num)[::-1]:
+if s == str(s)[::-1]:
         
 print('The given number is PALINDROME')
    
