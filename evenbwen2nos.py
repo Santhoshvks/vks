@@ -1,4 +1,4 @@
-numbers = range(1,50)
+numbers = range(1,40)
 
 even = []
 
