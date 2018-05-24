@@ -1,4 +1,8 @@
-l = [6,2,5,8,9,5,2,4,]
-a = min(l)
-b= l.index(a)  
-print (l[b])
+lst = []
+num = int(input('How many numbers: '))
+ 
+for n in range(num):
+    numbers = int(input('Enter number '))
+    lst.append(numbers)
+ 
+print("Minimum element in the list is :", min(lst))
