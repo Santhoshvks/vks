@@ -1,4 +1,4 @@
 s=str(input("enter the number"))
-i=s[::-1]
-print (i)
+a=s[::-1]
+print (a)
 
