@@ -1,6 +1,6 @@
 def camelCase(st):
   output = ''.join(x for x in st.title() if x.isalpha())
   return output[0].upper() + output[1:]
-s=str(input("enter the str:"))
-d=camelCase(s)
-print(d)
+i=str(input("enter the str:"))
+l=camelCase(i)
+print(l)
