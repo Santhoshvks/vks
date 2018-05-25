@@ -1,4 +1,4 @@
 s=input("enter the string")
-i=s[::-1]
-print (i)
+a=s[::-1]
+print (a)
 
